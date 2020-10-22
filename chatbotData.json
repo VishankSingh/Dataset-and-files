@@ -16,7 +16,7 @@
         },
         {"tag": "name",
          "patterns": ["what is your name", "what should I call you", "whats your name?"],
-         "responses": ["You can call me Vishank.", "I'm Tim!", "I'm Vishank."],
+         "responses": ["You can call me Vishank.", "I'm Vishank!", "I'm Vishank."],
          "context_set": ""
         },
         {"tag": "shop",
